@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Springboot-employee-crud-app"
+    }
+  },
+  "defaultProject": "Angular-Springboot-employee-crud-app",
+  "cli": {
+    "analytics": "666513a2-61ec-4337-8332-8b7a3e9e8316"
+  }
 }
